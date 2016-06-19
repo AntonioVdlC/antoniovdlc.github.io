@@ -39,6 +39,10 @@ html,body {
     display: inline;
 }
 
+.profile-links li a {
+    text-decoration: none;
+}
+
 .profile-links li img {
     height: 7.5vh;
     margin: 0.75vw;
